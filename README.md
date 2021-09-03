@@ -1,4 +1,4 @@
-# zuri8-print
+# js-func
 
 scroll button using js functions
 
