@@ -1,6 +1,7 @@
 # js-func
 
-scroll button using js functions
+scroll button using js feat.
+[Preview](https://bvenceslas.github.io/js-func/)
 
 ## Getting Started
 
