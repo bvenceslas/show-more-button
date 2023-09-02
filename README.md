@@ -1,6 +1,6 @@
-# js-func
+# show-more-button
 
-scroll button using js feat.
+Feature illustration of a show more button using simple JS.
 [Preview](https://bvenceslas.github.io/js-func/)
 
 ## Getting Started
